@@ -1,0 +1,8 @@
+/node_modules
+.env
+.env.production
+npm-debug.log
+yarn-error.log
+*.DS_Store
+**/*.DS_Store
+/src/uploads/*.*
